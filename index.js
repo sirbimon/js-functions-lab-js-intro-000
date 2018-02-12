@@ -5,6 +5,9 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  var nameStr = name
-  return 'Happy holidays, ${nameStr}'
+  return `Happy holidays, ${nameStr}`
+}
+
+function happyHolidayTo(holiday, name) {
+  
 }
